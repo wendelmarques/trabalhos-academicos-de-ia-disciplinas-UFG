@@ -31,7 +31,7 @@ Os artefados disponiveis aqui abragem trabalhos desenvoldidos nas disciplinas li
   #### 2. Identificação de transações financeiras fraudulentas com Redes Neurais Artificiais
   * Papel assumido: gerente;
   * Artefatos:
-    * [Relatório Técnico](https://github.com/wendelmarques/trabalhos-academicos-de-ia-disciplinas-UFG/blob/main/02.%20Redes_Neurais/Relat%C3%B3rio%20T%C3%A9cnico%20-%20%202020.2_AP_02_RedesNeurais.pdf)
+    * [Relatório Técnico;](https://github.com/wendelmarques/trabalhos-academicos-de-ia-disciplinas-UFG/blob/main/02.%20Redes_Neurais/Relat%C3%B3rio%20T%C3%A9cnico%20-%20%202020.2_AP_02_RedesNeurais.pdf)
     * [Correção do RT pelo professor](https://github.com/wendelmarques/trabalhos-academicos-de-ia-disciplinas-UFG/blob/main/02.%20Redes_Neurais/Corre%C3%A7%C3%A3o%20%5BRT%5D%202020.2_AP_02_RedesNeurais.pdf).
 
   #### 3. Sistema de recomendação de imóveis com Lógica Nebulosa
