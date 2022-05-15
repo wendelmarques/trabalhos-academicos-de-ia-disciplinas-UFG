@@ -20,36 +20,36 @@ O objetivo deste repositório é armazenar o projetos de inteligência artificia
 ## Projetos desenvolvidos
 
 ### Disciplina Inteligência Artificial
-  #### 1. Identificação de transações financeiras fraudulentas com Árvores de Decisão  
+  #### 01. Identificação de transações financeiras fraudulentas com Árvores de Decisão  
   * Papel assumido: analista de Dados; 
   * Artefatos:
     * [Análise exploratória dos dados](https://github.com/wendelmarques/trabalhos-academicos-de-ia-disciplinas-UFG/blob/main/01.%20Arvores_Decisao/2020_02_AP_04_ArvDecis%C3%A3o_AED.ipynb);
     * [Arquivo com AED, pré-processamento e implementação da solução](https://github.com/wendelmarques/trabalhos-academicos-de-ia-disciplinas-UFG/blob/main/01.%20Arvores_Decisao/2020_02_AP_04_ArvDecis%C3%A3o_Completo.ipynb).
 
-  #### 2. Identificação de transações financeiras fraudulentas com Redes Neurais Artificiais
+  #### 02. Identificação de transações financeiras fraudulentas com Redes Neurais Artificiais
   * Papel assumido: gerente;
   * Artefatos:
     * [Relatório Técnico;](https://github.com/wendelmarques/trabalhos-academicos-de-ia-disciplinas-UFG/blob/main/02.%20Redes_Neurais/Relat%C3%B3rio%20T%C3%A9cnico%20-%20%202020.2_AP_02_RedesNeurais.pdf)
     * [Correção do RT pelo professor](https://github.com/wendelmarques/trabalhos-academicos-de-ia-disciplinas-UFG/blob/main/02.%20Redes_Neurais/Corre%C3%A7%C3%A3o%20%5BRT%5D%202020.2_AP_02_RedesNeurais.pdf).
 
-  #### 3. Sistema de recomendação de imóveis com Lógica Nebulosa
+  #### 03. Sistema de recomendação de imóveis com Lógica Nebulosa
   * Papel assumido: analista de dados; 
   * Artefatos:
     * [Análise exploratória dos dados](https://github.com/wendelmarques/trabalhos-academicos-de-ia-disciplinas-UFG/blob/main/03.%20Logica_Nebulosa/2020_2_AP_03_L%C3%B3gicaNebulosa.ipynb).
 
-  #### 4. Predição de óbitos por doenças cardiovasculares com Rede Bayesiana
+  #### 04. Predição de óbitos por doenças cardiovasculares com Rede Bayesiana
   * Papel assumido: engenheiro de conhecimento;
   * Artefatos:
     * [Notebook com a implementação](https://github.com/wendelmarques/trabalhos-academicos-de-ia-disciplinas-UFG/blob/main/04.%20Incerteza/2020_2_AP_04_RBayes_GrupoF.ipynb).
     
-  #### 5. Identificação de melhor dieta alimentar capaz de diminuir efeitos da COVID-19 com Algoritmos Genéticos
+  #### 05. Identificação de melhor dieta alimentar capaz de diminuir efeitos da COVID-19 com Algoritmos Genéticos
   * Papel assumido: engenheiro de conhecimento;
   * Artefatos:
     * [Notebook com a implementação do modelo](https://github.com/wendelmarques/trabalhos-academicos-de-ia-disciplinas-UFG/blob/main/05.%20Algoritmos_Geneticos/2020_2_AP_05_AlgGen%C3%A9ticos_GrupoF.ipynb).
   
 ### Disciplina Mineração de Dados e Aprendizado de Máquina
 
-#### 6. Autorização de procedimentos de uma operadora de Planos de Saúde com Random Florest
+#### 06. Autorização de procedimentos de uma operadora de Planos de Saúde com Random Florest
   * Score Kaggle: otimizado de 66% para 85%;
   * Papel assumido: analista de dados e engenheiro de conhecimento;
   * Modelo: foram testados diversos algortimos -  KNN, SVM e Rede Neurais - mas a solução final foi construída com Random Florest;
