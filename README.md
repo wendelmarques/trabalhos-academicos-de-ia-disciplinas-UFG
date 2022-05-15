@@ -1,12 +1,12 @@
 <header> 
-<h1 align="center">Trabalhos de IA e análise de dados desenvolvidos em disciplinas da UFG</h1>
+<h1 align="center">Trabalhos de inteligência artificial e análise de dados desenvolvidos em disciplinas da UFG</h1>
 </header>
 
-<p align="center">
-<img src="https://scitechdaily.com/images/Left-Right-Brain-Signals.gif">
+</br>
+<p align="center" >
+<img src="https://scitechdaily.com/images/Left-Right-Brain-Signals.gif" width="600">
 </p>
-
-
+</br>
 
 ## Sobre o repositório
 O objetivo deste repositório é armazenar os projetos de inteligência artificial e análise de dados desenvolvidos em disciplinas cursadas na Universidade Federal de Goiás.
