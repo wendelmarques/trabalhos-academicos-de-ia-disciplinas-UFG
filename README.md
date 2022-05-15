@@ -17,11 +17,9 @@ O objetivo deste repositório é armazenar o projetos de inteligência artificia
 * Gerente: responsável por realizar a gestão do projeto e confecção da documentação (relatório técnico);
 * Engenheiro de Conhecimento: responsável por implementar a solução.
 
-## Disciplinas e projetos
+## Projetos desenvolvidos
 
-Os artefados disponiveis aqui abragem trabalhos desenvoldidos nas disciplinas listadas abaixo.
-
-### Inteligência Artificial
+### Disciplina Inteligência Artificial
   #### 1. Identificação de transações financeiras fraudulentas com Árvores de Decisão  
   * Papel assumido: analista de Dados; 
   * Artefatos:
@@ -49,7 +47,7 @@ Os artefados disponiveis aqui abragem trabalhos desenvoldidos nas disciplinas li
   * Artefatos:
     * [Notebook com a implementação do modelo](https://github.com/wendelmarques/trabalhos-academicos-de-ia-disciplinas-UFG/blob/main/05.%20Algoritmos_Geneticos/2020_2_AP_05_AlgGen%C3%A9ticos_GrupoF.ipynb).
   
-### Mineração de Dados e Aprendizado de Máquina
+### Disciplina Mineração de Dados e Aprendizado de Máquina
 
 #### 6. Autorização de procedimentos de uma operadora de Planos de Saúde com Random Florest
   * Score Kaggle: otimizado de 66% para 85%;
